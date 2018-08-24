@@ -1,0 +1,43 @@
+
+Adobe Premiere
+Lightworks (Linux)
+Davinci Resolve
+Wondershare Filmora
+
+Adobe Lightroom
+Darktable
+
+
+WINDOWS Install:
+
+Acronis True Image				Clonezilla, BorgBackup
+Adobe Acrobat					
+Adobe Audition
+Adobe Illustrator				Inkscape, Krita
+Adobe InCopy					
+Adobe InDesign					Scribus
+Adobe Lightroom					Darktable, RawTherapee
+Adobe Photoshop					Gimp
+Adobe Premiere					Kdenlive, Lightworks, Cinerella
+Amazon Kindle
+Camtasia Studio					OBS
+Dropbox						Trezorit
+ESET Endpoint Antivirus
+Github Desktop					
+Google Chrome					Chromium
+Handbrake					Handbrake, ffmpeg
+HWiNFO64
+ioBit Uninstaller
+Microsoft Office				Libreoffice
+Paragon ExtFS for Windows
+PuTTY
+qBittorent					Transmission, Deluge
+Quicken
+TC2000
+TeamViewer
+The Bat						ClawsMail, Syplheed, mutt
+Total Commander					mc
+VeraCrypt
+VLC						VLC, mpv
+VMWare Workstation Pro				Virtualbox
+VueScan						VueScan
