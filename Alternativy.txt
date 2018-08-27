@@ -11,17 +11,18 @@ Darktable
 WINDOWS Install:
 
 Acronis True Image				Clonezilla, BorgBackup
+Aid4Mail
 Adobe Acrobat					
 Adobe Audition
 Adobe Illustrator				Inkscape, Krita
 Adobe InCopy					
 Adobe InDesign					Scribus
-Adobe Lightroom					Darktable, RawTherapee
+Adobe Lightroom (Capture One Pro)		DigiKam, Darktable, RawTherapee
 Adobe Photoshop					Gimp
-Adobe Premiere					Kdenlive, Lightworks, Cinerella
+Adobe Premiere (Davinci Resolve, Hitfilm)	Kdenlive, Lightworks, Cinerella
 Amazon Kindle
 Camtasia Studio					OBS
-Dropbox						Trezorit
+Dropbox						Tresorit
 ESET Endpoint Antivirus
 Github Desktop					
 Google Chrome					Chromium
@@ -32,10 +33,10 @@ Microsoft Office				Libreoffice
 Paragon ExtFS for Windows
 PuTTY
 qBittorent					Transmission, Deluge
-Quicken
+Quicken						KMyMoney, GNUCash
 TC2000
 TeamViewer
-The Bat						ClawsMail, Syplheed, mutt
+The Bat (Outlook, emClient)			Thunderbird, Syplheed, mutt
 Total Commander					mc
 VeraCrypt
 VLC						VLC, mpv
